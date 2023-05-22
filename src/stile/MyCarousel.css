@@ -1,0 +1,9 @@
+.img-carousel {
+    height: 500px;
+    object-fit: cover;
+    width: 100% ;
+}
+
+.carousel {
+    background-image: url("https://images.hdqwalls.com/download/neon-world-7o-1920x1080.jpg");
+}
